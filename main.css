@@ -1,0 +1,22 @@
+ body{
+    color: indigo;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: url(./death.jpg);
+    background-size: cover;
+ }
+ 
+ ul{
+   display: flex;
+  justify-content: end;
+   list-style: none;
+ }
+
+ a{
+   color: rgb(255, 0, 0);
+   text-decoration: none;
+ }
+
+
+
+
+

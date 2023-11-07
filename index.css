@@ -1,0 +1,44 @@
+body{
+    color: gainsboro;
+    background-image: url(soul.jpg);
+background-size: cover;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul{
+  display: flex;
+  justify-content: left;
+  list-style: none;
+}
+
+a{
+  color: gainsboro;
+  text-decoration: none;
+}
+
+title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+}
+
+img {
+  opacity: 1;
+}
+
+img:hover {
+  opacity: 0.1;
+}
+
+img{
+  width: 150px;
+  height: 150px;
+  position: static;
+
+}
+
+
+
+
+
